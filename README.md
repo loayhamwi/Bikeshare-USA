@@ -16,6 +16,6 @@ The table of content
 - Performing Your Own Analysis
 - Conclusions
 
-In order to run the code, download the jupiter notebook file with the data files then run it locally using Jupiter Notebook application.
+In order to run the code, download the jupiter notebook file Bike_Share_Analysis.ipynb with the data files then run it locally using Jupiter Notebook application.
 
-Please run the cells one by one, to get more information about the code please read the comments in file.
+Please run the cells one by one, to get more information about the code please read the comments in Bike_Share_Analysis.ipynb.
